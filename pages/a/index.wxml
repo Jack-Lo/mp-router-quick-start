@@ -1,0 +1,3 @@
+<button bind:tap="replace" size="mini" type="primary">
+  replace query
+</button>

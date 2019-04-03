@@ -1,0 +1,3 @@
+<button bind:tap="relaunch" size="mini" type="primary">
+  relaunch
+</button>
